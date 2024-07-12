@@ -16,6 +16,6 @@ def minOperations(n: int) -> int:
         else:
             op += 1
             body += next
-            if len(body) != n:
-                return 0
-            return op
+    if len(body) != n:
+        return 0
+    return op
