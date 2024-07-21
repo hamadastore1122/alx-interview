@@ -1,13 +1,13 @@
-curriculum
-short Specializations
+## curriculum
+* short Specializations
 
-0x00. pascal's Triangle
+* 0x00. pascal's Triangle
 
-Algorithm python
+* Algorithm python
 
-Concepts
-for this project, look at these conscepts:
+## Concepts
+* for this project, look at these conscepts:
 
-Technical Interview
+* Technical Interview
 
-General Learning
+* General Learning
