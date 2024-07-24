@@ -1,10 +1,6 @@
 0x04. UTF-8 Validation
 ======================
 
-AlgorithmPython
-
--   By Carrie Ybay, Software Engineer at Holberton School
-
 Resources
 ---------
 
@@ -78,3 +74,6 @@ carrie@ubuntu:~/0x04-utf8_validation$
 -   GitHub repository: `alx-interview`
 -   Directory: `0x04-utf8_validation`
 -   File: `0-validate_utf8.py`
+
+-   ## Auther
+-   * mohammed yahya * gmail[hamadastore22@gmail.com]
