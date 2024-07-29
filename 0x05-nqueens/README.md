@@ -70,3 +70,8 @@ Here's a high-level approach to solving the `N-Queens` problem:
 
 The `N-Queens` problem can be solved using various programming languages and algorithms, such as **recursive backtracking** or **constraint propagation**.
 Solving it efficiently for larger `N` values can be quite challenging, and it's a good exercise in problem-solving and algorithm design.
+
+
+
+# Auther 
+* mohammed yahya abdelrahman shareef  [hamadastore22gmail.com]
