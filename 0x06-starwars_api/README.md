@@ -1,8 +1,5 @@
 # 0x06. Star Wars API
- | By Alexa Orrico, Software Engineer at Holberton School |
- | Weight: 1 |
- | Ongoing second chance project - started 08-23-2021, must end by 08-30-2021 (in about 1 hour) - you're done with 0% of tasks. |
- | QA review fully automated. |
+
 
 # In a nutshell…
 * Auto QA review: 0.0/10 mandatory
@@ -49,33 +46,7 @@ Display one character name per line in the same order as the “characters” li
 You must use the Star wars API
 You must use the request module
 
-<!-- -->
 
-    alexa@ubuntu:~/0x06$ ./0-starwars_characters.js 3
-    Luke Skywalker
-    C-3PO
-    R2-D2
-    Darth Vader
-    Leia Organa
-    Obi-Wan Kenobi
-    Chewbacca
-    Han Solo
-    Jabba Desilijic Tiure
-    Wedge Antilles
-    Yoda
-    Palpatine
-    Boba Fett
-    Lando Calrissian
-    Ackbar
-    Mon Mothma
-    Arvel Crynyd
-    Wicket Systri Warrick
-    Nien Nunb
-    Bib Fortuna
-    alexa@ubuntu:~/0x06$ 
+## Auther 
+* mohammed yahya abdelrahman shareef
 
-**Repo:**
-
-    - GitHub repository: alx-interview
-    - Directory: 0x06-starwars_api
-    - File: 0-starwars_characters.js
