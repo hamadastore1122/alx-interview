@@ -1,10 +1,5 @@
 # 0x07. Rotate 2D Matrix
- | By Jesse Hedden, Software Engineer at Holberton School |
- ----------------------------------------------------------
- | Ongoing project - started 08-30-2021, must end by 09-03-2021 (in 44minutes) - you're done with 0% of tasks. |
- | Checker was released at 09-01-2021 06:00 AM |
- | QA review fully automated. |
- | python quadratic time |
+
 
 # Requirements
 ## General
@@ -48,8 +43,3 @@ jessevhedden$ ./main_0.py
 jessevhedden$
 Repo:
 
-GitHub repository: alx-interview
-Directory: 0x07-rotate_2d_matrix
-File: 0-rotate_2d_matrix.py
-  
-Copyright © 2021 Holberton Inc, All rights reserved.
